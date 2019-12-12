@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "915251684027",
+    "firebase_url": "https://talkyourown-a2f67.firebaseio.com",
+    "project_id": "talkyourown-a2f67",
+    "storage_bucket": "talkyourown-a2f67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915251684027:android:db947208d7b1cbed09bf9e",
+        "android_client_info": {
+          "package_name": "com.example.talkyourown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915251684027-jpf70ct11tbackqpda2joqsv3rpetd4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKAbcB5quZY3Ovl52AvAqLZiICv--cY9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915251684027-jpf70ct11tbackqpda2joqsv3rpetd4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

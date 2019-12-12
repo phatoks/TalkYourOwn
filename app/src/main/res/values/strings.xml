@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TalkYourOwn</string>
+    <string name="title_people">People</string>
+    <string name="title_account">My Account</string>
+    <string name="account_name">Name</string>
+    <string name="bio">My Bio</string>
+    <string name="save_button">Save</string>
+    <string name="signout_button">SignOut</string>
+    <string name="lorem_ipsum">The law</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
