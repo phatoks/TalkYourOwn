@@ -20,6 +20,8 @@ import com.google.android.material.snackbar.Snackbar
 
 class SignInActivity : AppCompatActivity() {
 
+
+    //create a function for the signin action, this takes the action away
     private val RC_SIGN_IN = 1
 
     private val signInProviders =
@@ -56,6 +58,7 @@ class SignInActivity : AppCompatActivity() {
                 }
 
             }
+            //if the signin activity does not return any result, report an error
             else if (resultCode == Activity.RESULT_CANCELED){
                 if (response == null) return
 
